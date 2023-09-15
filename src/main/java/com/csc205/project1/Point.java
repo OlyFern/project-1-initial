@@ -1,12 +1,13 @@
 package com.csc205.project1;
 
-/*
+/**
+ * Made with ChatGPT
  * Input: In Java, design a class called Point that represents a location in the Cartesian plane.
  * Include the following methods: setX(double x), setY(double y), setPoint(double x, double y), shiftX(double n),
  * shiftY(double n), distance(Point p2), rotate(double angle)
  */
 
-import java.lang.Math;
+
 
 public class Point {
     private double x;
